@@ -28,7 +28,7 @@ const canvas = document.getElementById('myCanvas');
 const gameName = document.getElementById('gameName');
 const loaderBar = document.getElementById('loaderBar');
 
-const mainImagePath = '../images/loading.png'; // Path to your main background image
+const mainImagePath = '../../images/loading.png'; // Path to your main background image
 
 const ctx = canvas.getContext('2d');
 
